@@ -1,0 +1,55 @@
+/* Entire body css */
+
+body{
+	background-color: #1d1d1d;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+
+/* header section starts */
+
+.header-sec a{color: #27AE60; }
+
+.header-sec a:hover{color: yellow; }
+
+
+.header-sec {padding:67px 132px; }
+
+.header-sec .social-links .links{padding: 23px; }
+
+.header-sec .header-logo img{max-height: 50px; }
+
+/* header section ends */
+
+/* banner section starts */
+.banner-sec{
+	padding: 200px 0 317px 0;
+}
+
+
+.banner-left{ color: #ffffff; }
+
+.banner-left .banner-title h3{
+	margin-bottom: 27px;
+	font-weight: 500;
+	font-size: 48px;
+}
+
+.banner-left .banner-sub-text{
+	max-width: 	416px;
+	color: #A9A9A9;
+	margin-bottom: 67px;
+}
+
+.banner-left .banner-btn .btn-primary{
+	padding: 10px 64px 11px 52px;
+	background-color: #27AE60;
+	border: none;
+	margin-left: 5px;
+	border-radius: 55px;
+}
+
+
+
+/* banner section ends */
